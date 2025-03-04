@@ -17,7 +17,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     padding: 20px 100px 20px 100px;
-    background: rgba(255, 255, 255, 0.6); /* Putih dengan transparansi 60% */
+    background: rgba(255, 255, 255, 0.6); 
     backdrop-filter: blur(2px);
     background-repeat: no-repeat;
     border-radius: 0 12x 12x 0 ;
@@ -63,7 +63,7 @@ nav ul li a {
 }
 
 .hero-image {
-    background-image: url(/unsplash_KDlLiCL7XPk.png); /* Replace with your image path */
+    background-image: url(/src/unsplash_KDlLiCL7XPk.png); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
